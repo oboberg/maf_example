@@ -45,9 +45,10 @@
 
 
 ### After running step `5` you will be inside of the docker container in the shell window where you ran the command.
-### Your command prompt should now look similar to this: ` [docmaf@2e6125b69fc5 ~]$`. In
+### Your command prompt should now look similar to this: ` [docmaf@2e6125b69fc5 ~]$`.
 
-## (Commands run in the container). Do not include the `[docmaf@2e6125b69fc5 ~]$` bit in the commands.
+## (Commands run in the container).
+## Do not include the `[docmaf@2e6125b69fc5 ~]$` bit in the commands.
 
  1. Setup `sims_maf`
     ```
