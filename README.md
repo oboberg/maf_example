@@ -33,7 +33,8 @@
     $ mv astro-lsst-01_2022.db /maf_demo_z/survey_strategy/db/.
     ```
  5. Start the Docker container (this single multi-line command). You can change
-    `mycontainer` to whatever you would like the container name to be.
+    `mycontainer` to whatever you would like the container name to be. Be sure to
+    run this command in the same directory where you clone the repo in step one.
 
     ```
     docker run -it --rm --name mycontainer \
