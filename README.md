@@ -76,4 +76,4 @@
 
      Any edits to the notebooks, as well as their outputs, will be saved to your local
      computer in the `~/maf_results/survey_strategy/db/` directory, or wherever you
-     cloned the reop in step `1.`
+     cloned the reop in the very first step.
