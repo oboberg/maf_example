@@ -13,8 +13,7 @@
     /Users/myname/maf_results
     ```
 
- 2. Clone the repository with the notebooks you would like to run into the
- newly created local directory `maf_results`.
+ 2. Clone the repository with the notebooks you would like to run into the newly created local directory `maf_results`.
   ```
   $ pwd
   /Users/myname/maf_results
@@ -23,8 +22,7 @@
   survey_strategy/
   ```
 
- 3. Grab the data you would like to use with MAF if you do not already have it
- locally.
+ 3. Grab the data you would like to use with MAF if you do not already have it locally.
   ```
   $ wget http://astro-lsst-01.astro.washington.edu:8081/astro-lsst-01_2022.db
   $ ls
