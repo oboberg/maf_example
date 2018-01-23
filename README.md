@@ -40,7 +40,7 @@
                      -v ${PWD}/survey_strategy:/home/docmaf/maf_local/survey_strategy \
                      -p 8888:8888 \
                      oboberg/maf:191017
-                     ```
+    ```
     It may be useful to copy and paste this command into an executable shell script.
 
 
